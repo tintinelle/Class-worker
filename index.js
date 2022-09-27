@@ -1,3 +1,4 @@
+"use strict";
 class Worker {
     constructor (name, surname, rate, days) {
         this.name = name;
